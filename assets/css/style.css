@@ -7,7 +7,7 @@ div#memory-game {
     margin: 0px auto;
 }
 
-div#memory_board>div {
+div#memory-game>div {
     background: #FF3399;
     border: #000 1px solid;
     width: 71px;
